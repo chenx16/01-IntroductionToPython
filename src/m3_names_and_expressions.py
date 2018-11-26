@@ -95,7 +95,7 @@ print(2**0.5)
 print(type(3+3))
 ###############################################################################
 #
-# TODO: 6.
+# done: 6.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #   Run one more time to be sure that all is still OK.
 #
