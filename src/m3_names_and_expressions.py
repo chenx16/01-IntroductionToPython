@@ -28,7 +28,9 @@ print(answer * 100)
 #     - Prints the square root of that computed value.
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
-
+import math
+number=77 + math.cos(2.75)
+print(math.sqrt(number))
 ###############################################################################
 # TODO: 3.
 #   Immediately below this _TODO_, write code that computes and prints:
@@ -88,7 +90,7 @@ print(answer * 100)
 # After you have written and run the code to learn the TYPE
 # of each of the above, change the above _TODO_ to DONE.
 ###############################################################################
-
+print(type(3+3))
 ###############################################################################
 #
 # TODO: 6.
